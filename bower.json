@@ -1,0 +1,16 @@
+{
+  "name": "angular test app",
+  "version": "0.0.0",
+  "authors": [
+    "kaadash <arturkudel@gmail.com>"
+  ],
+  "description": "for testing app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
