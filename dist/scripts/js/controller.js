@@ -1,1 +1,1 @@
-var helloworld=function(){return console.log("helloworld"),"helloworld"};
+var helloworld=function(){return console.log("helloworld"),"helloworld"},app=angular.module("myApp",[]);
