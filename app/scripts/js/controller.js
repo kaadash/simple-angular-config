@@ -1,1 +1,4 @@
-var angularModule = angular.module('angularModule', []);
+var helloworld = function() {
+	console.log('helloworld');
+	return 'helloworld';
+};

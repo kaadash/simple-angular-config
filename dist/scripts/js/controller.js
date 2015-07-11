@@ -1,0 +1,1 @@
+var helloworld=function(){return console.log("helloworld"),"helloworld"};
